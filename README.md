@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rumeshi Bandara</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rumeshibandara&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -92,17 +89,17 @@ Here are some of my favorite projects (pin your top 6 repos on GitHub profile!):
 1. **🎟️ TicketMaster**  
    High-concurrency event ticket booking system with optimistic locking & seat hold mechanism  
    → **Tech:** Spring Boot, JPA/Hibernate, MySQL, Concurrency, REST APIs  
-   → [Repo Link](https://github.com/rumeshibandara/ticketmaster) *(update with real repo)*
+  
 
 2. **🎓 Student Management System**  
    Desktop app for managing student records with file persistence  
    → **Tech:** Java Swing, File I/O, OOP  
-   → [Repo Link](https://github.com/rumeshibandara/student-management)
+ 
 
 3. **🛒 E-Commerce Platform** (Full-Stack)  
    Modern online store with cart, payments & admin panel  
    → **Tech:** React / Next.js, Node.js / Express, MongoDB  
-   → [Repo Link](https://github.com/rumeshibandara/ecommerce)
+  
 
 *(Add more projects here — make sure each has a great README with screenshots/GIFs!)*
 
