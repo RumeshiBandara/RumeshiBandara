@@ -9,8 +9,7 @@
 
 ### 🔗 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rumeshibandara/" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/rumeshibandara" target="_blank">Twitter</a> •
+  <a href="www.linkedin.com/in/rumeshi-bandara-1a6383354" target="_blank">LinkedIn</a> •
   <a href="https://www.instagram.com/rumeshibandara" target="_blank">Instagram</a> •
   <a href="mailto:rumeshibandara@example.com">Email</a>
 </p>
