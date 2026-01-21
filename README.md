@@ -1,112 +1,89 @@
 <h1 align="center">Hi 👋, I'm Rumeshi Bandara</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
-
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rumeshibandara&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Backend+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<!-- Typing SVG (optional - remove if you don't like animation) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Building+Scalable+Systems;Passionate+About+Backend+%26+Concurrency;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=rumeshibandara&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 **Undergraduate / Self-taught** Software Engineering student  
-- 💻 **Focused on Backend Development**, System Design & High-Concurrency Systems  
-- 🌱 Currently diving deep into **Spring Boot**, **RESTful APIs**, **MySQL/PostgreSQL**, **Concurrency** & **Microservices**  
-- 🔍 Writing **clean, testable & performant code**  
-- 🤝 **Open to Internships**, **Junior roles** & **collaborations**  
-- 🎯 2026 Goals: Contribute to **open-source** & build production-grade apps  
-
----
-
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rumeshi-bandara-1a6383354/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/rumeshibandara" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:rumeshibandara@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- 🎓 **Undergraduate** / Self-taught Software Engineering student.
+- 💻 Strong interest in **Backend Development & System Design**.
+- 🌱 Currently mastering **Spring Boot, REST APIs, & Concurrency**.
+- 🔍 Focused on writing **clean, maintainable, and scalable code**.
+- 🤝 Open to **Internships & Junior Software Engineer** opportunities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php" alt="languages" />
-</p>
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,vue,nextjs,tailwind" alt="frontend" />
-</p>
+### 🌐 Frontend & Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mysql,mongodb" alt="backend" />
-</p>
+### ⚙️ Backend & Databases
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,idea,vscode,postman" alt="tools" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumeshibandara&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshibandara&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeshibandara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-Here are some of my favorite projects (pin your top 6 repos on GitHub profile!):
-
-1. **🎟️ TicketMaster**  
-   High-concurrency event ticket booking system with optimistic locking & seat hold mechanism  
-   → **Tech:** Spring Boot, JPA/Hibernate, MySQL, Concurrency, REST APIs  
-  
-
-2. **🎓 Student Management System**  
-   Desktop app for managing student records with file persistence  
-   → **Tech:** Java Swing, File I/O, OOP  
- 
-
-3. **🛒 E-Commerce Platform** (Full-Stack)  
-   Modern online store with cart, payments & admin panel  
-   → **Tech:** React / Next.js, Node.js / Express, MongoDB  
-  
-
-*(Add more projects here — make sure each has a great README with screenshots/GIFs!)*
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎟️ TicketMaster** | High-concurrency event booking system with real-time updates. | Spring Boot, JPA, MySQL |
+| **🎓 Student Management** | Desktop application for managing academic records. | Java Swing, File I/O |
+| **🛒 E-Commerce API** | Scalable REST API for online retail platforms. | Node.js, MongoDB, JWT |
 
 ---
 
-## ✨ Quote I Live By
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rumeshibandara&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeshibandara&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-> *“First, solve the problem. Then, write the code.”* – John Johnson
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshibandara&theme=tokyonight" />
+</p>
 
-Thanks for stopping by! Feel free to **star ⭐** my repos or drop a message if you'd like to collaborate. Let's build something awesome! 🚀
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rumeshi-bandara-1a6383354/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rumeshibandara@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rumeshibandara">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"> 
+  <i>“First, solve the problem. Then, write the code.”</i> – <b>John Johnson</b>
+</p>
